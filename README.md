@@ -5,9 +5,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently trainer and freelancer for various companies<br>
+✔ I’m currently freelancer for various companies<br>
 ✔ I’m currently  student reading Bsc.CSIT**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source ML.NET and Tensorflowjs projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
 ✔ Real fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
  
