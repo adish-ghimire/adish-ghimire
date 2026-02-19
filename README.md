@@ -18,21 +18,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adish-ghimire&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adish-ghimire&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adish-ghimire&theme=onedark&no-bg=true&margin-w=10" />
-</p>
-
----
-
-### ⚡ Tech Stack
-
