@@ -1,24 +1,38 @@
-### Hi there 👋   
- 
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<h1 align="center">Hi 👋, I'm Adish Ghimire</h1>
+<h3 align="center">🚀 .NET Developer | AWS Enthusiast | Lifelong Learner</h3>
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
-✔ Real fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
- 
-<br><br><br><br>
+<br>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adish-ghimire&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="adish-ghimire">
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation"/>
+
+### 👨‍💻 About Me
+
+- 👤 Pronouns: **He/Him**
+- 🤝 I believe in **Teamwork & Collaboration**
+- 💬 Ask me anything — if I know it, I’ll share it!
+- 📚 Passionate about **Learning & Sharing Knowledge**
+- ☁️ Exploring **AWS, .NET Core, React & Clean Architecture**
+- 🎯 Goal: Build scalable and production-ready applications
+
+<br><br><br>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adish-ghimire&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adish-ghimire&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="adish-ghimire" />  
-</p>      
-  
-<p align='center'>  
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=adish-ghimire&theme=juicyfresh&no-bg=true" alt="adish-ghimire" />  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adish-ghimire&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adish-ghimire&theme=onedark&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+### ⚡ Tech Stack
+
